@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-chuck-norris-app/static/css/main.67b86ff7.css",
+    "main.js": "/todo-chuck-norris-app/static/js/main.100d3229.js",
+    "index.html": "/todo-chuck-norris-app/index.html",
+    "main.67b86ff7.css.map": "/todo-chuck-norris-app/static/css/main.67b86ff7.css.map",
+    "main.100d3229.js.map": "/todo-chuck-norris-app/static/js/main.100d3229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b86ff7.css",
+    "static/js/main.100d3229.js"
+  ]
+}
